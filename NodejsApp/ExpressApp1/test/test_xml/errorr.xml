@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <name>log23</name>
+  <data>
+    <row>
+      <timestamp11 type="datetime">2014-07-01T09:30:10Z</timestamp11>
+      <message type="string">First message</message>
+    </row>
+    <row>
+      <timestamp type="datetime">2014-07-01T09:35:15Z</timestamp>
+      <message1 type="string">Second message</message1>
+    </row>
+  </data>
+</root>

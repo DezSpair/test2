@@ -1,0 +1,17 @@
+{
+  "name": "ExpressApp1",
+  "version": "0.0.0",
+  "description": "ExpressApp1",
+  "main": "app.js",
+  "author": {
+    "name": "Deza",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^3.4.4",
+    "jade": "*",
+    "linq": "^3.0.4-beta",
+    "stylus": "*",
+    "xml2js": "^0.4.4"
+  }
+}
